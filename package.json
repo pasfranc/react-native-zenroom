@@ -1,8 +1,8 @@
 {
   "name": "react-native-zenroom",
-  "title": "React Native Keypair Lib",
+  "title": "React Native Zenroom",
   "version": "1.0.0",
-  "description": "React Native Keypair Lib",
+  "description": "React Native Zenroom",
   "main": "index.js",
   "files": [
     "android",
